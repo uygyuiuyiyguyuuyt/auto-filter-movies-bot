@@ -1,5 +1,5 @@
 # Don't Remove Credit @KrishnaTG_Botz
-# Ask Doubt on telegram @Krishna00P
+# Ask Doubt on telegram @Movie_Hindi_Dubb
 
 
 import re
